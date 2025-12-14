@@ -4,7 +4,7 @@
 <h3 align="center">An IT Undergraduate | Software developer from India 👩‍💻🚀</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="500"/>
+    <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="420"/>
 </p>
 
 ---
